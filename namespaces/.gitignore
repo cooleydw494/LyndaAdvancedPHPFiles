@@ -1,0 +1,2 @@
+#simple gitignore file to prevent sending vendor files to repository
+/vendor
